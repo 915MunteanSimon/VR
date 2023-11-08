@@ -1,0 +1,8 @@
+D:\An_3\VR\lab1\lab_1_rt\lab_1_rt\obj\Debug\lab_1_rt.csproj.AssemblyReference.cache
+D:\An_3\VR\lab1\lab_1_rt\lab_1_rt\obj\Debug\lab_1_rt.csproj.SuggestedBindingRedirects.cache
+D:\An_3\VR\lab1\lab_1_rt\lab_1_rt\obj\Debug\lab_1_rt.csproj.CoreCompileInputs.cache
+D:\An_3\VR\lab1\lab_1_rt\lab_1_rt\bin\Debug\lab_1_rt.exe.config
+D:\An_3\VR\lab1\lab_1_rt\lab_1_rt\bin\Debug\lab_1_rt.exe
+D:\An_3\VR\lab1\lab_1_rt\lab_1_rt\bin\Debug\lab_1_rt.pdb
+D:\An_3\VR\lab1\lab_1_rt\lab_1_rt\obj\Debug\lab_1_rt.exe
+D:\An_3\VR\lab1\lab_1_rt\lab_1_rt\obj\Debug\lab_1_rt.pdb
